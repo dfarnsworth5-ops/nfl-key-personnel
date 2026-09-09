@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Key Personnel — Cheatsheet</title>
+<style>
+  :root {
+    --navy: #1a2744;
+    --red: #c8102e;
+    --accent: #7fcf8f;
+    --bg: #fafafa;
+    --border: #e2e2e2;
+    --row-alt: #eef1f7;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    background: var(--bg);
+    color: #1a1a1a;
+  }
+  .shell { max-width: 1100px; margin: 0 auto; padding: 16px; }
+
+  .banner {
+    background: var(--navy);
+    border-radius: 10px 10px 0 0;
+    border-bottom: 3px solid var(--accent);
+    padding: 16px 16px 18px;
+    text-align: center;
+  }
+  .banner-title {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: 0.2px;
+  }
+  .banner-sub {
+    color: #b9c2d6;
+    font-size: 12px;
+    margin-top: 4px;
+  }
+
+  .mode-toggle {
+    display: flex;
+    gap: 0;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-top: none;
+    padding: 10px 14px 0;
+  }
+  .mode-btn {
+    padding: 8px 18px;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    cursor: pointer;
+    user-select: none;
+    color: #8a8f9c;
+    border-bottom: 3px solid transparent;
+  }
+  .mode-btn.active {
+    color: var(--navy);
+    border-bottom-color: var(--accent);
+  }
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-top: none;
+    padding: 10px 14px;
+  }
+  #search {
+    padding: 6px 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 12px;
+    flex: 1;
+    min-width: 140px;
+    max-width: 240px;
+  }
+  .chip-group { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip {
+    padding: 5px 12px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    color: #444;
+    cursor: pointer;
+    user-select: none;
+    letter-spacing: 0.2px;
+  }
+  .chip.active {
+    background: var(--navy);
+    color: #fff;
+    border-color: var(--navy);
+  }
+
+  .table-wrap { overflow-x: auto; overflow-y: auto; max-height: 640px; background: #fff; border: 1px solid var(--border); border-top: none; border-radius: 0 0 10px 10px; position: relative; }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; }
+  thead th {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background: var(--navy);
+    color: #fff;
+    padding: 9px 8px;
+    text-align: center;
+    border-bottom: 3px solid var(--accent);
+    cursor: pointer;
+    user-select: none;
+    font-weight: 700;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    white-space: normal;
+  }
+  thead th:first-child { text-align: left; }
+  .arrow { font-size: 10px; color: var(--accent); margin-left: 3px; }
+  tbody td {
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--border);
+    text-align: center;
+    white-space: nowrap;
+  }
+  tbody td:first-child { text-align: left; font-weight: 600; }
+  tbody td.note-cell {
+    text-align: left;
+    white-space: normal;
+    font-weight: 400;
+    color: #444;
+    font-size: 12px;
+    min-width: 220px;
+  }
+  tbody tr:nth-child(even) { background: var(--row-alt); }
+  tbody tr:hover td { filter: brightness(0.96); }
+
+  .pos-badge, .tier-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.3px;
+    line-height: 1.5;
+    white-space: nowrap;
+  }
+</style>
+</head>
+<body>
+
+<div class="shell">
+  <div class="banner">
+    <div class="banner-title" id="bannerTitle">Noto's Key Personnel — Cheatsheet</div>
+    <div class="banner-sub" id="bannerSub"></div>
+  </div>
+  <div class="mode-toggle" id="modeToggle">
+    <div class="mode-btn active" data-mode="picks">Picks</div>
+    <div class="mode-btn" data-mode="injuries">Injuries</div>
+  </div>
+  <div class="toolbar">
+    <input type="text" id="search" placeholder="Search name or team...">
+    <div class="chip-group" id="posChips"></div>
+    <div class="chip-group" id="tierChips"></div>
+  </div>
+  <div class="table-wrap">
+    <table id="dataTable">
+      <thead><tr id="headRow"></tr></thead>
+      <tbody id="bodyRows"></tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+// ---- Colors, reused directly from the Showdown table's palette ----
+const POS_COLORS = {
+  QB:  "#2f6fed",
+  RB:  "#3d9e5c",
+  WR:  "#c9820a",
+  TE:  "#8b5cf6",
+  DST: "#c8102e"
+};
+const TIER_COLORS = {
+  Core:     "#b8860b",   // gold — 🏆
+  Strong:   "#2f6fed",   // blue — 💪
+  Sprinkle: "#4a90c4"    // rain-blue — 🌧️
+};
+const TIER_ORDER = { Core: 0, Strong: 1, Sprinkle: 2 };
+const STATUS_COLORS = {
+  Out:          "#c8102e",   // brand red — most severe
+  Doubtful:     "#d9770a",   // orange
+  Questionable: "#b8960c"    // gold
+};
+const STATUS_ORDER = { Out: 0, Doubtful: 1, Questionable: 2 };
+function tintStyle(color) { return `background:${color}1a; color:${color};`; }
+
+// ---- Live data (populated on load from a per-week JSON file) ----
+let GAME_DATA = { title: "", lastUpdated: "", picks: [], injuries: [] };
+
+let mode = "picks";
+let sortKey = "tier";
+let sortDir = 1;
+let searchTerm = "";
+let activePos = "ALL";
+let activeTier = "ALL";
+
+const PICKS_COLUMNS = [
+  { key: "name", label: "Player", link: true },
+  { key: "team", label: "Team" },
+  { key: "pos", label: "Pos", badge: "pos" },
+  { key: "tier", label: "Tier", badge: "tier" },
+  { key: "dk", label: "DK Sal", fmt: "money" },
+  { key: "fd", label: "FD Sal", fmt: "money" },
+  { key: "note", label: "Why", note: true }
+];
+
+const INJURY_COLUMNS = [
+  { key: "name", label: "Player", link: true },
+  { key: "team", label: "Team" },
+  { key: "pos", label: "Pos", badge: "pos" },
+  { key: "status", label: "Status", badge: "status" },
+  { key: "injury", label: "Injury" }
+];
+
+function fmt(val, type) {
+  if (val === null || val === undefined || val === "") return "—";
+  if (type === "money") return "$" + Number(val).toLocaleString();
+  return val;
+}
+
+function normName(s) {
+  return (s || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+}
+let PLAYER_URLS = {};
+
+function buildChips(containerId, values, active, onClick) {
+  const el = document.getElementById(containerId);
+  el.innerHTML = "";
+  values.forEach(v => {
+    const chip = document.createElement("div");
+    chip.className = "chip" + (v === active ? " active" : "");
+    chip.textContent = v;
+    chip.addEventListener("click", () => onClick(v));
+    el.appendChild(chip);
+  });
+}
+
+function render() {
+  const isInjuries = mode === "injuries";
+  const COLUMNS = isInjuries ? INJURY_COLUMNS : PICKS_COLUMNS;
+  const DATA = isInjuries ? GAME_DATA.injuries : GAME_DATA.picks;
+
+  // Mode tabs
+  document.querySelectorAll(".mode-btn").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.mode === mode);
+  });
+
+  // Position filter applies in both modes; Tier filter only makes sense for Picks
+  buildChips("posChips", ["ALL", "QB", "RB", "WR", "TE", "DST"], activePos, v => { activePos = v; render(); });
+  document.getElementById("tierChips").style.display = isInjuries ? "none" : "flex";
+  if (!isInjuries) {
+    buildChips("tierChips", ["ALL", "Core", "Strong", "Sprinkle"], activeTier, v => { activeTier = v; render(); });
+  }
+
+  const headRow = document.getElementById("headRow");
+  headRow.innerHTML = "";
+  COLUMNS.forEach(col => {
+    const th = document.createElement("th");
+    th.textContent = col.label;
+    if (sortKey === col.key) {
+      const arrow = document.createElement("span");
+      arrow.className = "arrow";
+      arrow.textContent = sortDir === 1 ? "▲" : "▼";
+      th.appendChild(arrow);
+    }
+    th.addEventListener("click", () => {
+      if (sortKey === col.key) sortDir *= -1; else { sortKey = col.key; sortDir = 1; }
+      render();
+    });
+    headRow.appendChild(th);
+  });
+
+  let rows = DATA.slice();
+  if (activePos !== "ALL") rows = rows.filter(r => r.pos === activePos);
+  if (!isInjuries && activeTier !== "ALL") rows = rows.filter(r => r.tier === activeTier);
+  const q = searchTerm.trim().toLowerCase();
+  if (q) rows = rows.filter(r => r.name.toLowerCase().includes(q) || r.team.toLowerCase().includes(q));
+
+  rows.sort((a, b) => {
+    let av = a[sortKey], bv = b[sortKey];
+    if (sortKey === "tier") {
+      av = TIER_ORDER[a.tier]; bv = TIER_ORDER[b.tier];
+      if (av === bv) return b.dk - a.dk; // within the same tier, highest salary first
+      return (av - bv) * sortDir;
+    }
+    if (sortKey === "status") { av = STATUS_ORDER[a.status]; bv = STATUS_ORDER[b.status]; }
+    if (av === undefined) return 0;
+    if (typeof av === "string") return av.localeCompare(bv) * sortDir;
+    return (av - bv) * sortDir;
+  });
+
+  const tbody = document.getElementById("bodyRows");
+  tbody.innerHTML = "";
+  rows.forEach(row => {
+    const tr = document.createElement("tr");
+    COLUMNS.forEach(col => {
+      const td = document.createElement("td");
+      const val = row[col.key];
+      if (col.badge === "pos") {
+        const span = document.createElement("span");
+        span.className = "pos-badge";
+        span.style.cssText = tintStyle(POS_COLORS[val] || "#6b7280");
+        span.textContent = val;
+        td.appendChild(span);
+      } else if (col.badge === "tier") {
+        const span = document.createElement("span");
+        span.className = "tier-badge";
+        const icon = val === "Core" ? "🏆" : val === "Strong" ? "💪" : "🌧️";
+        span.style.cssText = tintStyle(TIER_COLORS[val] || "#6b7280");
+        span.textContent = icon + " " + val;
+        td.appendChild(span);
+      } else if (col.badge === "status") {
+        const span = document.createElement("span");
+        span.className = "tier-badge";
+        span.style.cssText = tintStyle(STATUS_COLORS[val] || "#6b7280");
+        span.textContent = val;
+        td.appendChild(span);
+      } else if (col.link) {
+        const url = PLAYER_URLS[normName(val)];
+        if (url) {
+          const a = document.createElement("a");
+          a.href = url; a.target = "_blank"; a.rel = "noopener";
+          a.textContent = fmt(val, col.fmt);
+          a.style.color = "inherit"; a.style.textDecoration = "none";
+          a.addEventListener("mouseenter", () => a.style.textDecoration = "underline");
+          a.addEventListener("mouseleave", () => a.style.textDecoration = "none");
+          td.appendChild(a);
+        } else {
+          td.textContent = fmt(val, col.fmt);
+        }
+      } else if (col.note) {
+        td.className = "note-cell";
+        td.textContent = val;
+      } else {
+        td.textContent = fmt(val, col.fmt);
+      }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+document.getElementById("search").addEventListener("input", e => { searchTerm = e.target.value; render(); });
+document.getElementById("modeToggle").addEventListener("click", e => {
+  const btn = e.target.closest(".mode-btn");
+  if (!btn) return;
+  mode = btn.dataset.mode;
+  searchTerm = "";
+  document.getElementById("search").value = "";
+  sortKey = mode === "injuries" ? "status" : "tier";
+  sortDir = 1;
+  render();
+});
+
+// Each week gets its own permanently-named JSON file (week11.json, week12.json,
+// etc.), selected via a ?week= URL parameter — same pattern as the Showdown
+// table's ?slate= system, so an article embedded with a specific week keeps
+// showing that week's picks forever, even after newer weeks are published.
+// No ?week= param falls back to latest.json, a tiny pointer file that just
+// names whichever week is current — update that one file each Thursday and
+// every bare link (and any brand-new embed) automatically shows the right week.
+const urlParams = new URLSearchParams(window.location.search);
+const requestedWeek = urlParams.get("week");
+
+function loadWeek(weekFile) {
+  return fetch(weekFile + ".json").then(r => r.json());
+}
+
+const weekPromise = requestedWeek
+  ? loadWeek(requestedWeek)
+  : fetch("latest.json")
+      .then(r => r.json())
+      .then(latest => loadWeek(latest.current));
+
+Promise.all([
+  weekPromise,
+  fetch("https://dfarnsworth5-ops.github.io/nfl-showdown/players.json")
+    .then(r => r.json())
+    .catch(() => ({}))
+])
+  .then(([data, players]) => {
+    GAME_DATA = {
+      title: data.title || "",
+      lastUpdated: data.lastUpdated || "",
+      picks: data.picks || [],
+      injuries: data.injuries || []
+    };
+    PLAYER_URLS = players;
+
+    document.getElementById("bannerTitle").textContent = GAME_DATA.title || "Noto's Key Personnel — Cheatsheet";
+    document.getElementById("bannerSub").textContent = GAME_DATA.lastUpdated
+      ? "Last updated: " + new Date(GAME_DATA.lastUpdated).toLocaleString("en-US", { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })
+      : "";
+    document.title = GAME_DATA.title || "Key Personnel — Cheatsheet";
+
+    render();
+  })
+  .catch(err => {
+    document.getElementById("bodyRows").innerHTML =
+      '<tr><td colspan="7" style="padding:20px;text-align:center;color:#999;">Could not load this week\'s data — if opening this file directly (file://), it needs to be served over http(s), e.g. via GitHub Pages.</td></tr>';
+    console.error(err);
+  });
+</script>
+
+</body>
+</html>

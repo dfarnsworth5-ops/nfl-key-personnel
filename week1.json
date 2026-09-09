@@ -1,0 +1,360 @@
+{
+  "title": "Noto's Key Personnel \u2014 Week 1 Cheatsheet",
+  "lastUpdated": "2026-09-09T13:16:00",
+  "picks": [
+    {
+      "name": "J.J. McCarthy",
+      "team": "MIN",
+      "pos": "QB",
+      "tier": "Core",
+      "dk": 5200,
+      "fd": 6800,
+      "note": "Cheap dual-threat vs. Bears, 21st in EPA/dropback allowed"
+    },
+    {
+      "name": "Jacoby Brissett",
+      "team": "CIN",
+      "pos": "QB",
+      "tier": "Core",
+      "dk": 4900,
+      "fd": 7000,
+      "note": "25/21/25/21 fantasy pts in last 4 starts, great Niners matchup"
+    },
+    {
+      "name": "Brock Purdy",
+      "team": "SF",
+      "pos": "QB",
+      "tier": "Strong",
+      "dk": 5800,
+      "fd": 7100,
+      "note": "Cheap, stackable with CMC/Jennings/Kittle"
+    },
+    {
+      "name": "Justin Herbert",
+      "team": "LAC",
+      "pos": "QB",
+      "tier": "Strong",
+      "dk": 6600,
+      "fd": 8300,
+      "note": "Elite weapons, juicy Jaguars pass funnel"
+    },
+    {
+      "name": "Lamar Jackson",
+      "team": "BLT",
+      "pos": "QB",
+      "tier": "Sprinkle",
+      "dk": 6900,
+      "fd": 8600,
+      "note": "Salary won't get cheaper, Browns are a mild pass funnel"
+    },
+    {
+      "name": "Josh Allen",
+      "team": "BUF",
+      "pos": "QB",
+      "tier": "Sprinkle",
+      "dk": 7000,
+      "fd": 9000,
+      "note": "Elite floor, tougher run-funnel matchup this week"
+    },
+    {
+      "name": "Josh Jacobs",
+      "team": "GB",
+      "pos": "RB",
+      "tier": "Core",
+      "dk": 7800,
+      "fd": 9100,
+      "note": "Giants 32nd vs. run, nasty wind favors the ground game"
+    },
+    {
+      "name": "Chase Brown",
+      "team": "CIN",
+      "pos": "RB",
+      "tier": "Core",
+      "dk": 5700,
+      "fd": 7200,
+      "note": "100+ scrimmage yds in 3 straight with Flacco starting"
+    },
+    {
+      "name": "Jaylen Warren",
+      "team": "PIT",
+      "pos": "RB",
+      "tier": "Core",
+      "dk": 5400,
+      "fd": 6900,
+      "note": "Dream matchup vs. Bengals, 32nd in fantasy pts allowed to RBs"
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "SF",
+      "pos": "RB",
+      "tier": "Strong",
+      "dk": 9000,
+      "fd": 10000,
+      "note": "83% snap share, bounce-back spot vs. Cardinals"
+    },
+    {
+      "name": "Bijan Robinson",
+      "team": "ATL",
+      "pos": "RB",
+      "tier": "Strong",
+      "dk": 8300,
+      "fd": 9300,
+      "note": "20+ touches likely, low recent ownership after a cold stretch"
+    },
+    {
+      "name": "Rico Dowdle",
+      "team": "CAR",
+      "pos": "RB",
+      "tier": "Strong",
+      "dk": 6800,
+      "fd": 8100,
+      "note": "3x 30-pt games this season, plus matchup vs. Falcons"
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "BLT",
+      "pos": "RB",
+      "tier": "Sprinkle",
+      "dk": 6600,
+      "fd": 8000,
+      "note": "Cold/windy game script favors King Henry"
+    },
+    {
+      "name": "Kimani Vidal",
+      "team": "LAC",
+      "pos": "RB",
+      "tier": "Sprinkle",
+      "dk": 5900,
+      "fd": 7400,
+      "note": "Boom/bust role, 20+ carry upside if game stays close"
+    },
+    {
+      "name": "Jaxon Smith-Njigba",
+      "team": "SEA",
+      "pos": "WR",
+      "tier": "Core",
+      "dk": 8900,
+      "fd": 9700,
+      "note": "116 yds/game avg, fewer concerns than the other top WRs"
+    },
+    {
+      "name": "Michael Wilson",
+      "team": "ARZ",
+      "pos": "WR",
+      "tier": "Core",
+      "dk": 3800,
+      "fd": 5500,
+      "note": "WR1 role with Harrison out, cheap on both sites"
+    },
+    {
+      "name": "Puka Nacua",
+      "team": "LAR",
+      "pos": "WR",
+      "tier": "Strong",
+      "dk": 8700,
+      "fd": 9500,
+      "note": "28% target share, 39% air yards share in a top offense"
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "team": "CIN",
+      "pos": "WR",
+      "tier": "Strong",
+      "dk": 8500,
+      "fd": 9400,
+      "note": "44/457/2 in 4 games with Flacco, Steelers are dead-last vs. WR"
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN",
+      "pos": "WR",
+      "tier": "Strong",
+      "dk": 7500,
+      "fd": 8600,
+      "note": "Low ownership relative to McCarthy's own QB popularity"
+    },
+    {
+      "name": "Emeka Egbuka",
+      "team": "TB",
+      "pos": "WR",
+      "tier": "Sprinkle",
+      "dk": 7200,
+      "fd": 7900,
+      "note": "6-13-113-1 last week, Bucs stay aggressive as big dogs"
+    },
+    {
+      "name": "Jauan Jennings",
+      "team": "SF",
+      "pos": "WR",
+      "tier": "Sprinkle",
+      "dk": 5100,
+      "fd": 6200,
+      "note": "TD in back-to-back weeks, leads receivers in routes either way"
+    },
+    {
+      "name": "Trey McBride",
+      "team": "ARZ",
+      "pos": "TE",
+      "tier": "Core",
+      "dk": 6300,
+      "fd": 7700,
+      "note": "5 TDs in 4 games with Brissett, projects way above the field"
+    },
+    {
+      "name": "George Kittle",
+      "team": "SF",
+      "pos": "TE",
+      "tier": "Strong",
+      "dk": 5000,
+      "fd": 6600,
+      "note": "9-84-1 last week, way to get unique at the position"
+    },
+    {
+      "name": "Theo Johnson",
+      "team": "NYG",
+      "pos": "TE",
+      "tier": "Sprinkle",
+      "dk": 4100,
+      "fd": 5900,
+      "note": "5 TDs in last 8 games, nice red-zone matchup vs. Packers"
+    },
+    {
+      "name": "Packers",
+      "team": "GB",
+      "pos": "DST",
+      "tier": "Core",
+      "dk": 3200,
+      "fd": 4500,
+      "note": "Giants O-line allows pressure at a top-5 worst rate"
+    },
+    {
+      "name": "Titans",
+      "team": "TEN",
+      "pos": "DST",
+      "tier": "Core",
+      "dk": 2800,
+      "fd": 4200,
+      "note": "Facing a turnover-prone offense, cheap on both sites"
+    },
+    {
+      "name": "Jaguars",
+      "team": "JAX",
+      "pos": "DST",
+      "tier": "Strong",
+      "dk": 2600,
+      "fd": 4000,
+      "note": "Home dog spot, opposing OL among the league's most porous"
+    },
+    {
+      "name": "Browns",
+      "team": "CLV",
+      "pos": "DST",
+      "tier": "Strong",
+      "dk": 2400,
+      "fd": 3800,
+      "note": "Elite run-D unit, weather could force more Lamar dropbacks into pressure"
+    },
+    {
+      "name": "Texans",
+      "team": "HST",
+      "pos": "DST",
+      "tier": "Sprinkle",
+      "dk": 2200,
+      "fd": 3600,
+      "note": "Low-owned contrarian dart, elite pass rush vs. a shaky Bengals line"
+    }
+  ],
+  "injuries": [
+    {
+      "name": "Jaxson Dart",
+      "team": "NYG",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Concussion"
+    },
+    {
+      "name": "C.J. Stroud",
+      "team": "HST",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Concussion"
+    },
+    {
+      "name": "Marvin Harrison Jr.",
+      "team": "ARZ",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Knee"
+    },
+    {
+      "name": "Bucky Irving",
+      "team": "TB",
+      "pos": "RB",
+      "status": "Doubtful",
+      "injury": "Foot"
+    },
+    {
+      "name": "Chris Godwin",
+      "team": "TB",
+      "pos": "WR",
+      "status": "Doubtful",
+      "injury": "Finger"
+    },
+    {
+      "name": "J.K. Dobbins",
+      "team": "DEN",
+      "pos": "RB",
+      "status": "Questionable",
+      "injury": "Knee"
+    },
+    {
+      "name": "Isiah Pacheco",
+      "team": "KC",
+      "pos": "RB",
+      "status": "Questionable",
+      "injury": "Ankle"
+    },
+    {
+      "name": "Rome Odunze",
+      "team": "CHI",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Hip"
+    },
+    {
+      "name": "Brian Thomas Jr.",
+      "team": "JAX",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Ankle"
+    },
+    {
+      "name": "Ricky Pearsall",
+      "team": "SF",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Shoulder"
+    },
+    {
+      "name": "Darius Slayton",
+      "team": "NYG",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Hamstring"
+    },
+    {
+      "name": "Dalton Kincaid",
+      "team": "BUF",
+      "pos": "TE",
+      "status": "Questionable",
+      "injury": "Hip"
+    },
+    {
+      "name": "Dalton Schultz",
+      "team": "HST",
+      "pos": "TE",
+      "status": "Questionable",
+      "injury": "Groin"
+    }
+  ]
+}

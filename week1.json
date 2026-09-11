@@ -1,0 +1,486 @@
+{
+  "title": "Noto's Key Personnel \u2014 Week 1 Cheatsheet",
+  "lastUpdated": "2026-09-11T00:00:00",
+  "picks": [
+    {
+      "name": "Justin Herbert",
+      "team": "LAC",
+      "pos": "QB",
+      "tier": "Core",
+      "dk": 6100,
+      "fd": 7600,
+      "note": "McDaniel's scheme + bottom-10 Cardinals pass D at home"
+    },
+    {
+      "name": "Tyler Shough",
+      "team": "NO",
+      "pos": "QB",
+      "tier": "Core",
+      "dk": 5600,
+      "fd": 6900,
+      "note": "Banged-up Lions secondary, rushing upside, stacks with Olave/Johnson"
+    },
+    {
+      "name": "Jared Goff",
+      "team": "DET",
+      "pos": "QB",
+      "tier": "Strong",
+      "dk": 6000,
+      "fd": 7800,
+      "note": "High floor vs. Saints, elite from a clean pocket, pairs with Gibbs"
+    },
+    {
+      "name": "Bryce Young",
+      "team": "CAR",
+      "pos": "QB",
+      "tier": "Strong",
+      "dk": 5200,
+      "fd": 6800,
+      "note": "Wildcard \u2014 improved scrambling, possible pass-heavy script vs. Bears"
+    },
+    {
+      "name": "Caleb Williams",
+      "team": "CHI",
+      "pos": "QB",
+      "tier": "Sprinkle",
+      "dk": 6300,
+      "fd": 8000,
+      "note": "6-game streak of 18+ fantasy points, elite weapons, plus matchup"
+    },
+    {
+      "name": "Jalen Hurts",
+      "team": "PHI",
+      "pos": "QB",
+      "tier": "Sprinkle",
+      "dk": 6600,
+      "fd": 8300,
+      "note": "New OC Sean Mannion, low projected ownership, real rushing floor"
+    },
+    {
+      "name": "Jahmyr Gibbs",
+      "team": "DET",
+      "pos": "RB",
+      "tier": "Core",
+      "dk": 8000,
+      "fd": 9100,
+      "note": "Full bell-cow now that Montgomery's gone, 28.5 team total"
+    },
+    {
+      "name": "Bijan Robinson",
+      "team": "ATL",
+      "pos": "RB",
+      "tier": "Core",
+      "dk": 7700,
+      "fd": null,
+      "note": "Unmatched workload, but Falcons QB situation carries real risk"
+    },
+    {
+      "name": "MarShawn Lloyd",
+      "team": "GB",
+      "pos": "RB",
+      "tier": "Core",
+      "dk": null,
+      "fd": 4900,
+      "note": "Jacobs on Commissioner's Exempt List, huge FD price discount"
+    },
+    {
+      "name": "Saquon Barkley",
+      "team": "PHI",
+      "pos": "RB",
+      "tier": "Strong",
+      "dk": 6900,
+      "fd": 8100,
+      "note": "5.5-pt favorite, 100+ yds/TD in each of last 4 vs. Washington"
+    },
+    {
+      "name": "Travis Etienne Jr.",
+      "team": "NO",
+      "pos": "RB",
+      "tier": "Strong",
+      "dk": 5900,
+      "fd": 6800,
+      "note": "Hinges on Kamara's questionable status; signed as the clear RB1"
+    },
+    {
+      "name": "Omarion Hampton",
+      "team": "LAC",
+      "pos": "RB",
+      "tier": "Strong",
+      "dk": 6800,
+      "fd": 7300,
+      "note": "McDaniel's system elevates RBs; plus matchup vs. Cardinals run D"
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "BAL",
+      "pos": "RB",
+      "tier": "Sprinkle",
+      "dk": 6700,
+      "fd": 8300,
+      "note": "1,595 yds/16 TD last year at 32; low pOWN; Gwyn at center a small risk"
+    },
+    {
+      "name": "Ashton Jeanty",
+      "team": "LV",
+      "pos": "RB",
+      "tier": "Sprinkle",
+      "dk": 6600,
+      "fd": 7000,
+      "note": "Off the injury report; full workload upside if 100%"
+    },
+    {
+      "name": "De'Von Achane",
+      "team": "MIA",
+      "pos": "RB",
+      "tier": "Sprinkle",
+      "dk": 7000,
+      "fd": 8500,
+      "note": "Willis' rushing style a target-volume concern, but plus matchup"
+    },
+    {
+      "name": "Chris Olave",
+      "team": "NO",
+      "pos": "WR",
+      "tier": "Core",
+      "dk": 6700,
+      "fd": 7400,
+      "note": "27% target share/42% air yards with Shough; Tyson out"
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "team": "CIN",
+      "pos": "WR",
+      "tier": "Core",
+      "dk": 7800,
+      "fd": 8900,
+      "note": "Bucs pass funnel; expect a pass-heavy Bengals game plan"
+    },
+    {
+      "name": "Amon-Ra St. Brown",
+      "team": "DET",
+      "pos": "WR",
+      "tier": "Strong",
+      "dk": 7500,
+      "fd": 8600,
+      "note": "Topped 40 DK points twice last year; elite target/air-yards share"
+    },
+    {
+      "name": "Ladd McConkey",
+      "team": "LAC",
+      "pos": "WR",
+      "tier": "Strong",
+      "dk": 5900,
+      "fd": 6500,
+      "note": "Allen's departure frees up slot/underneath work; McDaniel bonus"
+    },
+    {
+      "name": "Tetairoa McMillan",
+      "team": "CAR",
+      "pos": "WR",
+      "tier": "Strong",
+      "dk": 6100,
+      "fd": 6800,
+      "note": "More slot usage planned; great shootout-potential Bears matchup"
+    },
+    {
+      "name": "Parker Washington",
+      "team": "JAX",
+      "pos": "WR",
+      "tier": "Strong",
+      "dk": 5600,
+      "fd": 6600,
+      "note": "Best WR on the roster after a wild WR-room season; tough environment"
+    },
+    {
+      "name": "Garrett Wilson",
+      "team": "NYJ",
+      "pos": "WR",
+      "tier": "Sprinkle",
+      "dk": 5800,
+      "fd": 6900,
+      "note": "Elite talent riding out another QB carousel; plus matchup vs. Titans"
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN",
+      "pos": "WR",
+      "tier": "Sprinkle",
+      "dk": 7300,
+      "fd": 8100,
+      "note": "Down year, but Kyler Murray could unlock him; low pOWN"
+    },
+    {
+      "name": "Nico Collins",
+      "team": "HOU",
+      "pos": "WR",
+      "tier": "Sprinkle",
+      "dk": 7000,
+      "fd": 7700,
+      "note": "Elite talent at low DFS ownership; plus matchup vs. Bills"
+    },
+    {
+      "name": "Zay Flowers",
+      "team": "BAL",
+      "pos": "WR",
+      "tier": "Sprinkle",
+      "dk": 6400,
+      "fd": 7300,
+      "note": "Career highs across the board; dome matchup vs. Colts"
+    },
+    {
+      "name": "Tre Tucker",
+      "team": "LV",
+      "pos": "WR",
+      "tier": "Sprinkle",
+      "dk": 4000,
+      "fd": 5600,
+      "note": "Tournament pivot off the Mayer chalk; could lead the team in targets"
+    },
+    {
+      "name": "Devaughn Vele",
+      "team": "NO",
+      "pos": "WR",
+      "tier": "Sprinkle",
+      "dk": 3500,
+      "fd": null,
+      "note": "Steps into the WR2 role with Tyson out"
+    },
+    {
+      "name": "Colston Loveland",
+      "team": "CHI",
+      "pos": "TE",
+      "tier": "Core",
+      "dk": 5300,
+      "fd": 6000,
+      "note": "48 targets over his final 4 games last year; could join the elite TE tier"
+    },
+    {
+      "name": "Michael Mayer",
+      "team": "LV",
+      "pos": "TE",
+      "tier": "Core",
+      "dk": 2900,
+      "fd": 4600,
+      "note": "Free square with Bowers out; 18/24 for 196 yds/1 TD in 4 games without him last year"
+    },
+    {
+      "name": "Tyler Warren",
+      "team": "IND",
+      "pos": "TE",
+      "tier": "Strong",
+      "dk": 4900,
+      "fd": 5600,
+      "note": "Rookie dip tied to Daniel Jones' injury; Pittman's exit opens volume"
+    },
+    {
+      "name": "Tucker Kraft",
+      "team": "GB",
+      "pos": "TE",
+      "tier": "Strong",
+      "dk": 4500,
+      "fd": 6300,
+      "note": "Elite before his ACL tear (32-489-6 in 8 games); no snap restriction expected"
+    },
+    {
+      "name": "Juwan Johnson",
+      "team": "NO",
+      "pos": "TE",
+      "tier": "Strong",
+      "dk": 3700,
+      "fd": 5400,
+      "note": "Projected 2nd on the team in targets with Tyson out"
+    },
+    {
+      "name": "Jaguars",
+      "team": "JAX",
+      "pos": "DST",
+      "tier": "Core",
+      "dk": 3400,
+      "fd": 5000,
+      "note": "Elite DL vs. Browns' worst-ranked OL; expect a pass-heavy CLE script"
+    },
+    {
+      "name": "Raiders",
+      "team": "LV",
+      "pos": "DST",
+      "tier": "Core",
+      "dk": 2900,
+      "fd": 3800,
+      "note": "Home favorites; Willis' first start as a full-time starter = turnover upside"
+    },
+    {
+      "name": "Steelers",
+      "team": "PIT",
+      "pos": "DST",
+      "tier": "Strong",
+      "dk": 3300,
+      "fd": 4900,
+      "note": "Loaded front seven, favored at home vs. a shorthanded Falcons offense"
+    },
+    {
+      "name": "Eagles",
+      "team": "PHI",
+      "pos": "DST",
+      "tier": "Strong",
+      "dk": 3200,
+      "fd": 4500,
+      "note": "Elite DL against a genuinely weak Washington offensive line"
+    }
+  ],
+  "injuries": [
+    {
+      "name": "Josh Jacobs",
+      "team": "GB",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Personal"
+    },
+    {
+      "name": "Brock Bowers",
+      "team": "LV",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Knee"
+    },
+    {
+      "name": "Tua Tagovailoa",
+      "team": "ATL",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Oblique"
+    },
+    {
+      "name": "Jeremiyah Love",
+      "team": "ARI",
+      "pos": "RB",
+      "status": "Questionable",
+      "injury": "Ankle"
+    },
+    {
+      "name": "TreVeyon Henderson",
+      "team": "NE",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Ankle"
+    },
+    {
+      "name": "Jordyn Tyson",
+      "team": "NO",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Hamstring"
+    },
+    {
+      "name": "Rome Odunze",
+      "team": "CHI",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Calf"
+    },
+    {
+      "name": "Alvin Kamara",
+      "team": "NO",
+      "pos": "RB",
+      "status": "Questionable",
+      "injury": "Knee"
+    },
+    {
+      "name": "Jalen McMillan",
+      "team": "TB",
+      "pos": "WR",
+      "status": "Doubtful",
+      "injury": "Knee"
+    },
+    {
+      "name": "Tank Dell",
+      "team": "HOU",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Knee"
+    },
+    {
+      "name": "Zach Charbonnet",
+      "team": "SEA",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Knee"
+    },
+    {
+      "name": "Malik Davis",
+      "team": "DAL",
+      "pos": "RB",
+      "status": "Questionable",
+      "injury": "Hip"
+    },
+    {
+      "name": "Isiah Pacheco",
+      "team": "DET",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Back"
+    },
+    {
+      "name": "James Conner",
+      "team": "ARI",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Foot"
+    },
+    {
+      "name": "Sean Tucker",
+      "team": "TB",
+      "pos": "RB",
+      "status": "Doubtful",
+      "injury": "Hamstring"
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "SF",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Calf"
+    },
+    {
+      "name": "Ty Johnson",
+      "team": "BUF",
+      "pos": "RB",
+      "status": "Questionable",
+      "injury": "Hamstring"
+    },
+    {
+      "name": "Audric Estime",
+      "team": "NO",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Thigh"
+    },
+    {
+      "name": "Oscar Delp",
+      "team": "NO",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Hamstring"
+    },
+    {
+      "name": "Luke Musgrave",
+      "team": "GB",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Neck"
+    },
+    {
+      "name": "Dont'e Thornton",
+      "team": "LV",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Undisclosed"
+    },
+    {
+      "name": "Tim Patrick",
+      "team": "NYJ",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Groin"
+    }
+  ]
+}

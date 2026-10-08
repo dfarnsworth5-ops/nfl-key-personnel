@@ -1,0 +1,738 @@
+{
+  "title": "Noto's Key Personnel — Week 5 Cheatsheet",
+  "lastUpdated": "2026-10-08T11:30:00",
+  "picks": [
+    {
+      "name": "Josh Allen",
+      "team": "BUF",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Core",
+      "dk": 7700,
+      "fd": 9100,
+      "note": "Rushing floor means no forced stack; 20+ fantasy points in 5 of last 6 vs. NE"
+    },
+    {
+      "name": "Jacoby Brissett",
+      "team": "ARI",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Core",
+      "dk": 5000,
+      "fd": 6800,
+      "note": "Topped 20 fantasy points in 10 of last 15 games; Giants are 27th in EPA allowed, missing a top EDGE"
+    },
+    {
+      "name": "Trevor Lawrence",
+      "team": "JAC",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Strong",
+      "dk": 5900,
+      "fd": 7900,
+      "note": "Highest total on the board; easy stack with Washington, but game has been slow-paced"
+    },
+    {
+      "name": "Dak Prescott",
+      "team": "DAL",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Strong",
+      "dk": 6400,
+      "fd": 8100,
+      "note": "Elite weapons, dome game, Cowboys D can't stop anyone — sneaky shootout with Collins back"
+    },
+    {
+      "name": "Bo Nix",
+      "team": "DEN",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Sprinkle",
+      "dk": 5600,
+      "fd": 7600,
+      "note": "15 and 25 fantasy points last 2 weeks; Niners D is shorthanded, should be a pass-heavy script"
+    },
+    {
+      "name": "Jalon Daniels",
+      "team": "TBB",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Sprinkle",
+      "dk": 4400,
+      "fd": 6400,
+      "note": "Min-salary with rushing upside; TB likely trailing vs. a leaky Packers D"
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "SFO",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Core",
+      "dk": 7700,
+      "fd": 8800,
+      "note": "Played 82% of snaps in first competitive game; plus matchup vs. league-worst run D"
+    },
+    {
+      "name": "Cam Skattebo",
+      "team": "NYG",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Core",
+      "dk": 6100,
+      "fd": 7100,
+      "note": "77% snaps, 23 touches for 100 yards last week; high target share, good home matchup"
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "BAL",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Strong",
+      "dk": 8400,
+      "fd": 9100,
+      "note": "Revenge game, 11.5-point favorite, leads NFL in carries"
+    },
+    {
+      "name": "Kenneth Walker III",
+      "team": "KCC",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Strong",
+      "dk": 8200,
+      "fd": 8500,
+      "note": "2nd in NFL in RYOE, 4 TDs already, 76 touches through 3 games"
+    },
+    {
+      "name": "Chase Brown",
+      "team": "CIN",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Strong",
+      "dk": 6100,
+      "fd": 7600,
+      "note": "~20 touches/game, 70%+ snaps every week; exposure to the highest-totaled game"
+    },
+    {
+      "name": "Aaron Jones",
+      "team": "MIN",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Strong",
+      "dk": 6000,
+      "fd": 6400,
+      "note": "80%+ snaps without Mason; best matchup yet vs. a Dolphins D allowing the most RB points"
+    },
+    {
+      "name": "James Cook",
+      "team": "BUF",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Sprinkle",
+      "dk": 7400,
+      "fd": 8200,
+      "note": "20+ touches each of last 2 games, 3rd in NFL rushing; tournament play vs. NE"
+    },
+    {
+      "name": "D'Andre Swift",
+      "team": "CHI",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Sprinkle",
+      "dk": 6400,
+      "fd": 7300,
+      "note": "46 RYOE, 7th-best in NFL; Bears should lean run vs. a soft Jets front"
+    },
+    {
+      "name": "Jeremiyah Love",
+      "team": "ARI",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Sprinkle",
+      "dk": 5800,
+      "fd": 6600,
+      "note": "Out-snapped and out-touched Allgeier 26-6 last week; RB1 role has arrived"
+    },
+    {
+      "name": "Braelon Allen",
+      "team": "NYJ",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Sprinkle",
+      "dk": 5200,
+      "fd": 5700,
+      "note": "Hall out, Davis hasn't played a snap; ran half the routes after Hall left last week"
+    },
+    {
+      "name": "Garrett Wilson",
+      "team": "NYJ",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Core",
+      "dk": 6800,
+      "fd": 7600,
+      "note": "10/107/1 last week; Jets offense concentrated with Hall/Mitchell/Taylor out vs. a soft Bears D"
+    },
+    {
+      "name": "Parker Washington",
+      "team": "JAC",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Core",
+      "dk": 6500,
+      "fd": 7100,
+      "note": "90+ yards or a TD in all 3 games; 28% target share, 46% air yards, highest total of the week"
+    },
+    {
+      "name": "Jaxon Smith-Njigba",
+      "team": "SEA",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 9100,
+      "fd": 9500,
+      "note": "38% target share is elite, but game-script dependent; author has lower exposure this week"
+    },
+    {
+      "name": "Puka Nacua",
+      "team": "LAR",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 7500,
+      "fd": 9000,
+      "note": "Monitor for activation; Adams a fallback if out (8/195/2 and 7/137 in Nacua's absences)"
+    },
+    {
+      "name": "Matthew Golden",
+      "team": "GBP",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 5400,
+      "fd": 6300,
+      "note": "23% target share, 37% air yards share, cheaper than Watson; plus matchup vs. a pass-funnel TB D"
+    },
+    {
+      "name": "CeeDee Lamb",
+      "team": "DAL",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 7800,
+      "fd": 8500,
+      "note": "Top 6 in NFL in receptions/yards/TDs; Texans have allowed 2nd-most fantasy points to WRs"
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "team": "CIN",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 8100,
+      "fd": 9100,
+      "note": "24% target share on a pass-happy offense; best in competitive scripts, highest total on the board"
+    },
+    {
+      "name": "Malik Washington",
+      "team": "MIA",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 4400,
+      "fd": 5600,
+      "note": "Led team in routes/targets last week; MIA likely trailing and forced to air it out"
+    },
+    {
+      "name": "Dontayvion Wicks",
+      "team": "PHI",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 4300,
+      "fd": 5900,
+      "note": "Smith (doubtful) and Goedert (out) clear the way for added volume"
+    },
+    {
+      "name": "Makai Lemon",
+      "team": "PHI",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 4100,
+      "fd": 5500,
+      "note": "Smith (doubtful) and Goedert (out) clear the way for added volume"
+    },
+    {
+      "name": "Jaylen Waddle",
+      "team": "DEN",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 6200,
+      "fd": 6600,
+      "note": "Hit-or-miss so far but has flashed 100+ yard upside; DEN projects to throw more than usual"
+    },
+    {
+      "name": "Michael Wilson",
+      "team": "ARI",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 5500,
+      "fd": 6200,
+      "note": "Clear WR1 role — 26% target share, 43% air yards share; underpriced for that usage"
+    },
+    {
+      "name": "Brock Bowers",
+      "team": "LVR",
+      "pos": "TE",
+      "group": "TE",
+      "tier": "Core",
+      "dk": 6900,
+      "fd": 7200,
+      "note": "10/116/1 in his return; 39% target share, functions as a WR1 at TE price"
+    },
+    {
+      "name": "Trey McBride",
+      "team": "ARI",
+      "pos": "TE",
+      "group": "TE",
+      "tier": "Core",
+      "dk": 6500,
+      "fd": 7400,
+      "note": "28% target share, 27% air yards share; historically low-owned even at this usage level"
+    },
+    {
+      "name": "Kenyon Sadiq",
+      "team": "NYJ",
+      "pos": "TE",
+      "group": "TE",
+      "tier": "Strong",
+      "dk": 4000,
+      "fd": 5300,
+      "note": "22% target share and 105 yards/TD last week with Hall/Mitchell/Taylor all out"
+    },
+    {
+      "name": "Brenton Strange",
+      "team": "JAC",
+      "pos": "TE",
+      "group": "TE",
+      "tier": "Strong",
+      "dk": 3200,
+      "fd": 5100,
+      "note": "Clear TE1 in JAX passing game; Bengals have allowed 2nd-most fantasy points to TEs"
+    },
+    {
+      "name": "Vikings",
+      "team": "MIN",
+      "pos": "DST",
+      "group": "DST",
+      "tier": "Core",
+      "dk": 4000,
+      "fd": 5000,
+      "note": "Massive home favorites vs. one of the league's worst offenses; league's top blitz rate, #1 in points/EPA allowed"
+    },
+    {
+      "name": "Texans",
+      "team": "HOU",
+      "pos": "DST",
+      "group": "DST",
+      "tier": "Strong",
+      "dk": 2900,
+      "fd": 4000,
+      "note": "DraftKings pick — tough run D, favored at home, should force Prescott dropbacks into pressure"
+    },
+    {
+      "name": "Bears",
+      "team": "CHI",
+      "pos": "DST",
+      "group": "DST",
+      "tier": "Strong",
+      "dk": 3000,
+      "fd": 3500,
+      "note": "FanDuel pick — cheap, at home vs. a shorthanded Jets offense"
+    },
+    {
+      "name": "Jordan Addison",
+      "team": "MIN",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 5300,
+      "fd": 6500,
+      "note": "Jefferson is out, which opens up a ton of targets in an elite matchup against the Dolphins"
+    },
+    {
+      "name": "T.J. Hockenson",
+      "team": "MIN",
+      "pos": "TE",
+      "group": "TE",
+      "tier": "Strong",
+      "dk": 3300,
+      "fd": 4900,
+      "note": "Jefferson is out, which opens up a ton of targets in an elite matchup against the Dolphins"
+    }
+  ],
+  "injuries": [
+    {
+      "name": "Josh Jacobs",
+      "team": "GBP",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Personal",
+      "priority": 10
+    },
+    {
+      "name": "A.J. Brown",
+      "team": "NEP",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Ankle",
+      "priority": 10
+    },
+    {
+      "name": "Caleb Williams",
+      "team": "CHI",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Hamstring",
+      "priority": 10
+    },
+    {
+      "name": "Jaxson Dart",
+      "team": "NYG",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 10
+    },
+    {
+      "name": "Jayden Daniels",
+      "team": "WAS",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Elbow",
+      "priority": 10
+    },
+    {
+      "name": "DeVon Achane",
+      "team": "MIA",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 10
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Ankle",
+      "priority": 10
+    },
+    {
+      "name": "Travis Etienne",
+      "team": "NOS",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Hamstring",
+      "priority": 10
+    },
+    {
+      "name": "Breece Hall",
+      "team": "NYJ",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Thigh",
+      "priority": 10
+    },
+    {
+      "name": "Mike Evans",
+      "team": "SFO",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Ribs",
+      "priority": 10
+    },
+    {
+      "name": "Baker Mayfield",
+      "team": "TBB",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Thumb",
+      "priority": 10
+    },
+    {
+      "name": "DeVonta Smith",
+      "team": "PHI",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Hamstring",
+      "priority": 10
+    },
+    {
+      "name": "Terry McLaurin",
+      "team": "WAS",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Hamstring",
+      "priority": 10
+    },
+    {
+      "name": "Jordan Mason",
+      "team": "MIN",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Thumb",
+      "priority": 9
+    },
+    {
+      "name": "Jonathon Brooks",
+      "team": "CAR",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Core",
+      "priority": 9
+    },
+    {
+      "name": "Alec Pierce",
+      "team": "IND",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Heel",
+      "priority": 9
+    },
+    {
+      "name": "Rico Dowdle",
+      "team": "PIT",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Toe",
+      "priority": 9
+    },
+    {
+      "name": "Jalen Coker",
+      "team": "CAR",
+      "pos": "WR",
+      "status": "Doubtful",
+      "injury": "Quad",
+      "priority": 9
+    },
+    {
+      "name": "Jadarian Price",
+      "team": "SEA",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Chest",
+      "priority": 9
+    },
+    {
+      "name": "Adonai Mitchell",
+      "team": "NYJ",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Finger",
+      "priority": 8
+    },
+    {
+      "name": "Caleb Douglas",
+      "team": "MIA",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Ankle",
+      "priority": 8
+    },
+    {
+      "name": "Dallas Goedert",
+      "team": "PHI",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 8
+    },
+    {
+      "name": "Jayden Reed",
+      "team": "GBP",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Neck",
+      "priority": 8
+    },
+    {
+      "name": "Rachaad White",
+      "team": "WAS",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Shoulder",
+      "priority": 8
+    },
+    {
+      "name": "Keenan Allen",
+      "team": "IND",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Groin",
+      "priority": 8
+    },
+    {
+      "name": "Kenyon Sadiq",
+      "team": "NYJ",
+      "pos": "TE",
+      "status": "Questionable",
+      "injury": "Back",
+      "priority": 8
+    },
+    {
+      "name": "Jonah Coleman",
+      "team": "DEN",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Ankle",
+      "priority": 7
+    },
+    {
+      "name": "Xavier Legette",
+      "team": "CAR",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 7
+    },
+    {
+      "name": "Ja'Kobi Lane",
+      "team": "BAL",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Wrist",
+      "priority": 6
+    },
+    {
+      "name": "Andrei Iosivas",
+      "team": "CIN",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Thumb",
+      "priority": 6
+    },
+    {
+      "name": "Terrance Ferguson",
+      "team": "LAR",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Ankle",
+      "priority": 6
+    },
+    {
+      "name": "Dylan Sampson",
+      "team": "CLE",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 6
+    },
+    {
+      "name": "Charlie Kolar",
+      "team": "LAC",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Arm",
+      "priority": 6
+    },
+    {
+      "name": "Eli Raridon",
+      "team": "NEP",
+      "pos": "TE",
+      "status": "Questionable",
+      "injury": "Thigh",
+      "priority": 6
+    },
+    {
+      "name": "Jack Bech",
+      "team": "LVR",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Arm",
+      "priority": 6
+    },
+    {
+      "name": "Colby Parkinson",
+      "team": "LAR",
+      "pos": "TE",
+      "status": "Questionable",
+      "injury": "Shoulder",
+      "priority": 6
+    },
+    {
+      "name": "Noah Fant",
+      "team": "NOS",
+      "pos": "TE",
+      "status": "Questionable",
+      "injury": "Abdominal",
+      "priority": 6
+    },
+    {
+      "name": "David Njoku",
+      "team": "LAC",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Leg",
+      "priority": 5
+    },
+    {
+      "name": "Demarcus Robinson",
+      "team": "SFO",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Ankle",
+      "priority": 5
+    },
+    {
+      "name": "Mason Taylor",
+      "team": "NYJ",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Thumb",
+      "priority": 5
+    },
+    {
+      "name": "Barion Brown",
+      "team": "NOS",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Hamstring",
+      "priority": 5
+    },
+    {
+      "name": "Josh Oliver",
+      "team": "MIN",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Biceps",
+      "priority": 5
+    },
+    {
+      "name": "Jalen McMillan",
+      "team": "TBB",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 5
+    },
+    {
+      "name": "Omar Cooper",
+      "team": "NYJ",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Ankle",
+      "priority": 4
+    },
+    {
+      "name": "Chris Moore",
+      "team": "BAL",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Ankle",
+      "priority": 4
+    }
+  ]
+}

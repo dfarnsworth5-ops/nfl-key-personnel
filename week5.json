@@ -1,6 +1,6 @@
 {
   "title": "Noto's Key Personnel — Week 5 Cheatsheet",
-  "lastUpdated": "2026-10-11T09:15:00",
+  "lastUpdated": "2026-10-11T09:50:00",
   "picks": [
     {
       "name": "Jared Goff",
@@ -73,16 +73,6 @@
       "note": "Monangai out, so all the snaps and goal-line work; Packers are 31st in SA fantasy points allowed to RBs"
     },
     {
-      "name": "Mike Washington",
-      "team": "LVR",
-      "pos": "RB",
-      "group": "RB",
-      "tier": "Core",
-      "dk": null,
-      "fd": null,
-      "note": "Jeanty is trending the wrong way; if he's out, Washington is a feature back at an extremely cheap price"
-    },
-    {
       "name": "Aaron Jones",
       "team": "MIN",
       "pos": "RB",
@@ -130,7 +120,7 @@
       "tier": "Sprinkle",
       "dk": 7200,
       "fd": 7800,
-      "note": "Questionable (ankle/foot); 100% of carries inside the 5 and 22.1 XFPPG, Washington is the value if he's out"
+      "note": "100% of carries inside the 5 and 22.1 XFPPG; expected to play after being listed Questionable (ankle/foot)"
     },
     {
       "name": "Jonathan Taylor",
@@ -364,16 +354,8 @@
       "name": "Caleb Williams",
       "team": "CHI",
       "pos": "QB",
-      "status": "Questionable",
+      "status": "Out",
       "injury": "Hamstring",
-      "priority": 10
-    },
-    {
-      "name": "Justin Jefferson",
-      "team": "MIN",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Ankle",
       "priority": 10
     },
     {
@@ -409,66 +391,10 @@
       "priority": 10
     },
     {
-      "name": "Tee Higgins",
-      "team": "CIN",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Groin/Neck",
-      "priority": 10
-    },
-    {
-      "name": "Ja'Marr Chase",
-      "team": "CIN",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Concussion",
-      "priority": 10
-    },
-    {
       "name": "Saquon Barkley",
       "team": "PHI",
       "pos": "RB",
       "status": "Out",
-      "injury": "Hamstring",
-      "priority": 10
-    },
-    {
-      "name": "Ashton Jeanty",
-      "team": "LVR",
-      "pos": "RB",
-      "status": "Questionable",
-      "injury": "Ankle/Foot",
-      "priority": 10
-    },
-    {
-      "name": "Zay Flowers",
-      "team": "BAL",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Foot",
-      "priority": 10
-    },
-    {
-      "name": "Alvin Kamara",
-      "team": "NOS",
-      "pos": "RB",
-      "status": "Questionable",
-      "injury": "Back",
-      "priority": 10
-    },
-    {
-      "name": "Carnell Tate",
-      "team": "TEN",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Back",
-      "priority": 10
-    },
-    {
-      "name": "Terry McLaurin",
-      "team": "WAS",
-      "pos": "WR",
-      "status": "Questionable",
       "injury": "Hamstring",
       "priority": 10
     },
@@ -484,7 +410,7 @@
       "name": "Ladd McConkey",
       "team": "LAC",
       "pos": "WR",
-      "status": "Questionable",
+      "status": "Doubtful",
       "injury": "Foot",
       "priority": 10
     },
@@ -492,7 +418,7 @@
       "name": "Rico Dowdle",
       "team": "PIT",
       "pos": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "injury": "Toe",
       "priority": 9
     },
@@ -521,6 +447,14 @@
       "priority": 9
     },
     {
+      "name": "Marvin Harrison",
+      "team": "ARI",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Trade",
+      "priority": 9
+    },
+    {
       "name": "Travis Etienne",
       "team": "NOS",
       "pos": "RB",
@@ -545,14 +479,6 @@
       "priority": 8
     },
     {
-      "name": "Keenan Allen",
-      "team": "IND",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Groin",
-      "priority": 8
-    },
-    {
       "name": "Tank Bigsby",
       "team": "PHI",
       "pos": "RB",
@@ -572,7 +498,7 @@
       "name": "Jordan Addison",
       "team": "MIN",
       "pos": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "injury": "Hamstring",
       "priority": 8
     },
@@ -633,14 +559,6 @@
       "priority": 7
     },
     {
-      "name": "Jaylen Wright",
-      "team": "MIA",
-      "pos": "RB",
-      "status": "Questionable",
-      "injury": "Foot",
-      "priority": 7
-    },
-    {
       "name": "George Holani",
       "team": "SEA",
       "pos": "RB",
@@ -673,6 +591,14 @@
       "priority": 6
     },
     {
+      "name": "Josh Palmer",
+      "team": "BUF",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Shoulder",
+      "priority": 6
+    },
+    {
       "name": "Terrance Ferguson",
       "team": "LAR",
       "pos": "TE",
@@ -689,14 +615,6 @@
       "priority": 5
     },
     {
-      "name": "Colby Parkinson",
-      "team": "LAR",
-      "pos": "TE",
-      "status": "Questionable",
-      "injury": "Shoulder",
-      "priority": 5
-    },
-    {
       "name": "David Njoku",
       "team": "LAC",
       "pos": "TE",
@@ -710,14 +628,6 @@
       "pos": "RB",
       "status": "Out",
       "injury": "Ankle",
-      "priority": 5
-    },
-    {
-      "name": "Barion Brown",
-      "team": "NOS",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Thigh",
       "priority": 5
     },
     {
@@ -750,14 +660,6 @@
       "pos": "RB",
       "status": "Out",
       "injury": "Knee",
-      "priority": 4
-    },
-    {
-      "name": "Konata Mumpfield",
-      "team": "LAR",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Shoulder",
       "priority": 4
     },
     {

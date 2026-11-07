@@ -1,0 +1,786 @@
+{
+ "title": "Noto's Key Personnel — Week 9 Cheatsheet",
+ "lastUpdated": "2026-11-06",
+ "picks": [
+  {
+   "name": "Malik Willis",
+   "team": "MIA",
+   "pos": "QB",
+   "group": "QB",
+   "tier": "Core",
+   "dk": 5100,
+   "fd": 6500,
+   "note": "Averaging 20+ fantasy points over his last 3 games despite MIA's slow pace; 100+ rushing yards and 2 rushing TDs in that stretch; DET is 29th in dropback EPA and 31st in schedule-adjusted points vs. QBs; 7-pt home underdogs should mean a pass-heavy approach; stack with Dulcich"
+  },
+  {
+   "name": "Shedeur Sanders",
+   "team": "CLE",
+   "pos": "QB",
+   "group": "QB",
+   "tier": "Core",
+   "dk": 4000,
+   "fd": 6200,
+   "note": "First start of the season in a dream matchup; NOS is 23rd in dropback EPA with one of the lowest pressure rates; has shown he'll throw downfield when given time and has better weapons now; indoors in a fast-paced game means more plays; stack with Boston/Concepcion"
+  },
+  {
+   "name": "Brock Purdy",
+   "team": "SFO",
+   "pos": "QB",
+   "group": "QB",
+   "tier": "Strong",
+   "dk": 6800,
+   "fd": 8500,
+   "note": "Terrific efficiency plus 3.2 fantasy points per game on the ground; Evans and Samuel both out makes the stack easier (McCaffrey and/or Kittle); 31-pt team total vs. LVR, who are quickly becoming one of the worst defenses in football; one of two QBs projected for double-digit ownership"
+  },
+  {
+   "name": "Drew Lock",
+   "team": "SEA",
+   "pos": "QB",
+   "group": "QB",
+   "tier": "Strong",
+   "dk": 4000,
+   "fd": 6300,
+   "note": "Would be Core over Sanders if 100% healthy, but a right elbow injury has limited his throwing in recent weeks; elite weapons and an elite matchup vs. ARI (31st in dropback EPA, 29th in schedule-adjusted points vs. QBs); min salary on DK makes him a tournament play even with the injury"
+  },
+  {
+   "name": "Dak Prescott",
+   "team": "DAL",
+   "pos": "QB",
+   "group": "QB",
+   "tier": "Sprinkle",
+   "dk": 6500,
+   "fd": 8000,
+   "note": "DAL's bad defense has forced him to air it out, which has helped his production, and his expected fantasy points say he has left points on the field; dome matchup vs. IND (24th in schedule-adjusted points vs. QBs); pairs with Lamb or Pickens"
+  },
+  {
+   "name": "Patrick Mahomes",
+   "team": "KCC",
+   "pos": "QB",
+   "group": "QB",
+   "tier": "Sprinkle",
+   "dk": 6100,
+   "fd": 7900,
+   "note": "Some middling outings but also 28, 32 and 23-point games; KC is 3rd in pass rate over expectation; NYJ are 28th in dropback EPA; most lineups will feature a cheap QB, so don't forget him in tournament builds"
+  },
+  {
+   "name": "Jahmyr Gibbs",
+   "team": "DET",
+   "pos": "RB",
+   "group": "RB",
+   "tier": "Core",
+   "dk": 10000,
+   "fd": 10200,
+   "note": "Scored 28 fantasy points vs. MIN even after losing pass-protection snaps to Vaki; MIA is bottom 12 in run EPA and schedule-adjusted points vs. RBs; real chance at 25 touches; easy to fit with all the value at QB, WR and TE"
+  },
+  {
+   "name": "Rhamondre Stevenson",
+   "team": "NEP",
+   "pos": "RB",
+   "group": "RB",
+   "tier": "Core",
+   "dk": 6100,
+   "fd": 6400,
+   "note": "The chalk that busted last week despite 22 touches, as NEP fell behind early and the TDs went to Maye; Henderson still out; should see 20+ touches vs. GB (23rd in schedule-adjusted points vs. RBs); could be shied away from after a middling game"
+  },
+  {
+   "name": "Kenneth Walker III",
+   "team": "KCC",
+   "pos": "RB",
+   "group": "RB",
+   "tier": "Strong",
+   "dk": 9000,
+   "fd": 8900,
+   "note": "Leads the NFL in rushing yards over expectation and has every carry inside the 5; 12% target share; averaging 23 fantasy points per game, behind only Gibbs; NYJ are 8th in run EPA, which doesn't worry me"
+  },
+  {
+   "name": "Christian McCaffrey",
+   "team": "SFO",
+   "pos": "RB",
+   "group": "RB",
+   "tier": "Strong",
+   "dk": 8000,
+   "fd": 8700,
+   "note": "Would be Core without the hamstring concern; expected to play, but hamstrings are tricky and he played 50% of snaps last week; LVR are 23rd in run EPA and 24th in schedule-adjusted points vs. RBs; massive team total; projected for the most RB ownership; stack with Purdy"
+  },
+  {
+   "name": "Jonah Coleman",
+   "team": "DEN",
+   "pos": "RB",
+   "group": "RB",
+   "tier": "Strong",
+   "dk": 5300,
+   "fd": 6300,
+   "note": "Took over the feature role with Harvey out: 15 touches to 7 for Dobbins, 90% of second-half snaps and a TD; role could grow in a better matchup; CAR is 25th in run EPA and 29th in schedule-adjusted points vs. RBs"
+  },
+  {
+   "name": "Chuba Hubbard",
+   "team": "CAR",
+   "pos": "RB",
+   "group": "RB",
+   "tier": "Sprinkle",
+   "dk": 6500,
+   "fd": 7400,
+   "note": "92% of snaps and 29 touches last week with little competition for touches; can't expect that volume every week, but a struggling Young could push CAR run-heavy vs. DEN, who are 26th in run EPA"
+  },
+  {
+   "name": "Javonte Williams",
+   "team": "DAL",
+   "pos": "RB",
+   "group": "RB",
+   "tier": "Sprinkle",
+   "dk": 7300,
+   "fd": 7700,
+   "note": "Clear path to 20+ touches vs. IND (29th in run EPA, 30th in schedule-adjusted points vs. RBs); expecting DAL to score, so exposure to the passing game or Williams in every lineup; could move up a tier by Sunday"
+  },
+  {
+   "name": "Devin Singletary",
+   "team": "NYG",
+   "pos": "RB",
+   "group": "RB",
+   "tier": "Sprinkle",
+   "dk": 4600,
+   "fd": 5200,
+   "note": "Skattebo doubtful and Tracy on IR; expected to start with Desrosiers as the backup; no longer as explosive but in line for a hefty workload vs. PHI (31st in run EPA); extremely cheap"
+  },
+  {
+   "name": "Puka Nacua",
+   "team": "LAR",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Core",
+   "dk": 8800,
+   "fd": 9200,
+   "note": "Only Core tag at WR; 34% target share and 39% air yards share, with target share up to 41% in games Adams has missed; 26.5-pt team total vs. WAS (26th in dropback EPA, 21st in schedule-adjusted points vs. WRs); top play of the expensive options"
+  },
+  {
+   "name": "Jaxon Smith-Njigba",
+   "team": "SEA",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Strong",
+   "dk": 9300,
+   "fd": 9500,
+   "note": "Arguably the best receiver in football vs. a defense that is 31st in dropback EPA; the concern is Lock's elbow and SEA leaning on the run as big favorites, though they may want to make a statement after losing to CHI"
+  },
+  {
+   "name": "CeeDee Lamb",
+   "team": "DAL",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Strong",
+   "dk": 8300,
+   "fd": 8800,
+   "note": "One of the most concentrated target trees in the NFL on a defense that gives up points in bunches; better usage and production than Pickens, so a slight preference; not double stacking with Dak; viable vs. IND"
+  },
+  {
+   "name": "George Pickens",
+   "team": "DAL",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Strong",
+   "dk": 6300,
+   "fd": 7400,
+   "note": "Squeaky-wheel narrative: Jones and Schottenheimer both said he needs more involvement; rarely has big games with Lamb; viable vs. IND"
+  },
+  {
+   "name": "Adonai Mitchell",
+   "team": "NYJ",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Strong",
+   "dk": 4500,
+   "fd": 5400,
+   "note": "Garrett Wilson ruled out, making him a top target for Geno Smith; 7-142-1 vs. LVR last week; strong value vs. KC; likely more owned than Cooper"
+  },
+  {
+   "name": "Omar Cooper Jr.",
+   "team": "NYJ",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Strong",
+   "dk": 4900,
+   "fd": 5500,
+   "note": "Garrett Wilson ruled out; no catches last week but ran more routes than Mitchell and has flashed upside; strong value vs. KC; expected to be significantly less owned than Mitchell"
+  },
+  {
+   "name": "KC Concepcion",
+   "team": "CLE",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Strong",
+   "dk": 4600,
+   "fd": 5600,
+   "note": "Low aDOT and the higher floor of the Browns' value WRs; part of the Sanders stack in an exploitable indoor matchup vs. NOS"
+  },
+  {
+   "name": "Denzel Boston",
+   "team": "CLE",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Strong",
+   "dk": 5000,
+   "fd": 5500,
+   "note": "Much higher target share and more upside than Concepcion; part of the Sanders stack in an exploitable indoor matchup vs. NOS"
+  },
+  {
+   "name": "Matthew Golden",
+   "team": "GBP",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Sprinkle",
+   "dk": 7000,
+   "fd": 6800,
+   "note": "Always viable in tournaments; one of Golden and Watson always seems to have a big game, and sometimes both do; NEP are 21st in schedule-adjusted points vs. WRs; figure out who Christian Gonzalez shadows and the other is a standout"
+  },
+  {
+   "name": "Christian Watson",
+   "team": "GBP",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Sprinkle",
+   "dk": 7500,
+   "fd": 7500,
+   "note": "Always viable in tournaments; one of Watson and Golden always seems to have a big game, and sometimes both do; NEP are 21st in schedule-adjusted points vs. WRs; figure out who Christian Gonzalez shadows and the other is a standout"
+  },
+  {
+   "name": "Makai Lemon",
+   "team": "PHI",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Sprinkle",
+   "dk": 4700,
+   "fd": 5800,
+   "note": "WR1 for PHI with DeVonta Smith and Wicks out; 13-of-17 targets for 134 yards and a TD over the last 2 games; NYG are 7th in schedule-adjusted points vs. WRs, but he's affordable with volume; Joe Milton is a question mark"
+  },
+  {
+   "name": "Antonio Williams",
+   "team": "WAS",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Sprinkle",
+   "dk": 4100,
+   "fd": 5500,
+   "note": "McLaurin on IR; led the team in routes last week and caught 5-of-7 targets for 54 yards; not a great matchup vs. LAR, but a strong value"
+  },
+  {
+   "name": "Efton Chism III",
+   "team": "NEP",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Sprinkle",
+   "dk": 3600,
+   "fd": 5100,
+   "note": "88% of snaps and a 25% target share with Brown and Doubs out last week; Hollins could return but likely limited; could be the WR1 at a very cheap price vs. GB"
+  },
+  {
+   "name": "Malik Washington",
+   "team": "MIA",
+   "pos": "WR",
+   "group": "WR",
+   "tier": "Sprinkle",
+   "dk": 4700,
+   "fd": 5700,
+   "note": "25% target share and 28% air yards share; not my favorite pairing with Willis, but a strong value; DET are 27th in schedule-adjusted points vs. WRs"
+  },
+  {
+   "name": "Greg Dulcich",
+   "team": "MIA",
+   "pos": "TE",
+   "group": "TE",
+   "tier": "Core",
+   "dk": 3100,
+   "fd": 4900,
+   "note": "Could be the highest-owned TE, but he has a lot in his favor: 5+ targets in each of the last 3 games and DET are dead last in fantasy points allowed to TEs; game script should mean plenty of dropbacks for Willis; stack with Willis"
+  },
+  {
+   "name": "George Kittle",
+   "team": "SFO",
+   "pos": "TE",
+   "group": "TE",
+   "tier": "Strong",
+   "dk": 6000,
+   "fd": 6700,
+   "note": "Evans and Samuel out and CMC dealing with a hamstring injury; 22% target share and 22% air yards share in one of the best offenses in the NFL; LVR are 25th in dropback EPA and 27th in schedule-adjusted points vs. TEs; projected for 25% ownership; stack with Purdy"
+  },
+  {
+   "name": "Saints",
+   "team": "NOS",
+   "pos": "DST",
+   "group": "DST",
+   "tier": "Core",
+   "dk": 2900,
+   "fd": 3600,
+   "note": "Off a bye and at home vs. a turnover-prone QB; if the offense performs better they should build a lead, and with 35+ dropbacks for Sanders I expect sacks and mistakes; cheap on both sites and among the highest pOWN"
+  },
+  {
+   "name": "Seahawks",
+   "team": "SEA",
+   "pos": "DST",
+   "group": "DST",
+   "tier": "Strong",
+   "dk": 3800,
+   "fd": 4700,
+   "note": "Home favorites vs. the lowly ARI; Minshew's good game last week was garbage time vs. DAL, and SEA is a different story; prefer the defense over their skill players this week"
+  },
+  {
+   "name": "Chargers",
+   "team": "LAC",
+   "pos": "DST",
+   "group": "DST",
+   "tier": "Sprinkle",
+   "dk": 2400,
+   "fd": 3700,
+   "note": "Winless but still a top-10 defense, with an offense that can't score or help it out; HOU hasn't been world-beating; tournament pivot if you won't eat the Saints chalk, with game-script risk"
+  }
+ ],
+ "injuries": [
+  {
+   "name": "Davante Adams",
+   "team": "LAR",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Hamstring",
+   "priority": 10
+  },
+  {
+   "name": "Emeka Egbuka",
+   "team": "TBB",
+   "pos": "WR",
+   "status": "Questionable",
+   "injury": "Foot",
+   "priority": 10
+  },
+  {
+   "name": "DeVonta Smith",
+   "team": "PHI",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Hamstring",
+   "priority": 10
+  },
+  {
+   "name": "A.J. Brown",
+   "team": "NEP",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Knee/Ankle",
+   "priority": 10
+  },
+  {
+   "name": "Jeremiyah Love",
+   "team": "ARI",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Ankle",
+   "priority": 10
+  },
+  {
+   "name": "Tyler Huntley",
+   "team": "BAL",
+   "pos": "QB",
+   "status": "Out",
+   "injury": "Toe",
+   "priority": 10
+  },
+  {
+   "name": "Lamar Jackson",
+   "team": "BAL",
+   "pos": "QB",
+   "status": "Out",
+   "injury": "Thumb",
+   "priority": 10
+  },
+  {
+   "name": "Kyler Murray",
+   "team": "MIN",
+   "pos": "QB",
+   "status": "Out",
+   "injury": "Hamstring",
+   "priority": 10
+  },
+  {
+   "name": "Cam Skattebo",
+   "team": "NYG",
+   "pos": "RB",
+   "status": "Doubtful",
+   "injury": "Hamstring",
+   "priority": 10
+  },
+  {
+   "name": "Deshaun Watson",
+   "team": "CLE",
+   "pos": "QB",
+   "status": "Doubtful",
+   "injury": "Concussion",
+   "priority": 10
+  },
+  {
+   "name": "Garrett Wilson",
+   "team": "NYJ",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Concussion",
+   "priority": 10
+  },
+  {
+   "name": "Sam Darnold",
+   "team": "SEA",
+   "pos": "QB",
+   "status": "Out",
+   "injury": "Quad",
+   "priority": 10
+  },
+  {
+   "name": "Mike Evans",
+   "team": "SFO",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Achilles",
+   "priority": 10
+  },
+  {
+   "name": "George Pickens",
+   "team": "DAL",
+   "pos": "WR",
+   "status": "Questionable",
+   "injury": "Hamstring",
+   "priority": 10
+  },
+  {
+   "name": "Amon-Ra St. Brown",
+   "team": "DET",
+   "pos": "WR",
+   "status": "Questionable",
+   "injury": "Ribs",
+   "priority": 10
+  },
+  {
+   "name": "Kyle Monangai",
+   "team": "CHI",
+   "pos": "RB",
+   "status": "Questionable",
+   "injury": "Toe/Thumb",
+   "priority": 9
+  },
+  {
+   "name": "Dontayvion Wicks",
+   "team": "PHI",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Ankle",
+   "priority": 9
+  },
+  {
+   "name": "Jordyn Tyson",
+   "team": "NOS",
+   "pos": "WR",
+   "status": "Questionable",
+   "injury": "Hamstring",
+   "priority": 9
+  },
+  {
+   "name": "David Montgomery",
+   "team": "HOU",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Groin",
+   "priority": 9
+  },
+  {
+   "name": "Hunter Henry",
+   "team": "NEP",
+   "pos": "TE",
+   "status": "Questionable",
+   "injury": "Foot",
+   "priority": 9
+  },
+  {
+   "name": "Deebo Samuel",
+   "team": "SFO",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Hamstring",
+   "priority": 9
+  },
+  {
+   "name": "Demarcus Robinson",
+   "team": "SFO",
+   "pos": "WR",
+   "status": "Questionable",
+   "injury": "Ankle",
+   "priority": 9
+  },
+  {
+   "name": "Romeo Doubs",
+   "team": "NEP",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Shoulder",
+   "priority": 8
+  },
+  {
+   "name": "Travis Etienne",
+   "team": "NOS",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Hamstring",
+   "priority": 8
+  },
+  {
+   "name": "Kendrick Bourne",
+   "team": "ARI",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Ankle",
+   "priority": 8
+  },
+  {
+   "name": "Zonovan Knight",
+   "team": "ARI",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Concussion",
+   "priority": 8
+  },
+  {
+   "name": "Christian Kirk",
+   "team": "SFO",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Knee",
+   "priority": 8
+  },
+  {
+   "name": "Treylon Burks",
+   "team": "WAS",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Foot",
+   "priority": 8
+  },
+  {
+   "name": "Tyrone Tracy",
+   "team": "NYG",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Hamstring",
+   "priority": 7
+  },
+  {
+   "name": "Michael Pittman",
+   "team": "PIT",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Foot",
+   "priority": 7
+  },
+  {
+   "name": "Jacory Croskey-Merritt",
+   "team": "WAS",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Groin",
+   "priority": 7
+  },
+  {
+   "name": "Alec Pierce",
+   "team": "IND",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Heel",
+   "priority": 7
+  },
+  {
+   "name": "TreVeyon Henderson",
+   "team": "NEP",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Illness",
+   "priority": 7
+  },
+  {
+   "name": "RJ Harvey",
+   "team": "DEN",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Knee",
+   "priority": 7
+  },
+  {
+   "name": "Jake Ferguson",
+   "team": "DAL",
+   "pos": "TE",
+   "status": "Out",
+   "injury": "Ankle",
+   "priority": 7
+  },
+  {
+   "name": "Dameon Pierce",
+   "team": "PHI",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Undisclosed",
+   "priority": 6
+  },
+  {
+   "name": "Brian Robinson",
+   "team": "ATL",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Hamstring",
+   "priority": 6
+  },
+  {
+   "name": "Rashid Shaheed",
+   "team": "SEA",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Knee",
+   "priority": 6
+  },
+  {
+   "name": "Roman Wilson",
+   "team": "PIT",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Finger",
+   "priority": 6
+  },
+  {
+   "name": "Tank Bigsby",
+   "team": "PHI",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Core",
+   "priority": 6
+  },
+  {
+   "name": "Will Shipley",
+   "team": "PHI",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Foot",
+   "priority": 6
+  },
+  {
+   "name": "Cole Kmet",
+   "team": "CHI",
+   "pos": "TE",
+   "status": "Out",
+   "injury": "Knee",
+   "priority": 6
+  },
+  {
+   "name": "Colby Parkinson",
+   "team": "LAR",
+   "pos": "TE",
+   "status": "Questionable",
+   "injury": "Ribs",
+   "priority": 6
+  },
+  {
+   "name": "Raheim Sanders",
+   "team": "CLE",
+   "pos": "RB",
+   "status": "Out",
+   "injury": "Hip",
+   "priority": 5
+  },
+  {
+   "name": "Terrance Ferguson",
+   "team": "LAR",
+   "pos": "TE",
+   "status": "Questionable",
+   "injury": "Ankle",
+   "priority": 5
+  },
+  {
+   "name": "Josh Palmer",
+   "team": "BUF",
+   "pos": "WR",
+   "status": "Doubtful",
+   "injury": "Hamstring",
+   "priority": 5
+  },
+  {
+   "name": "Theo Johnson",
+   "team": "NYG",
+   "pos": "TE",
+   "status": "Questionable",
+   "injury": "Neck",
+   "priority": 5
+  },
+  {
+   "name": "MarShawn Lloyd",
+   "team": "GBP",
+   "pos": "RB",
+   "status": "Questionable",
+   "injury": "Knee",
+   "priority": 5
+  },
+  {
+   "name": "Mack Hollins",
+   "team": "NEP",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Calf",
+   "priority": 4
+  },
+  {
+   "name": "KaVontae Turpin",
+   "team": "DAL",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Ribs",
+   "priority": 4
+  },
+  {
+   "name": "Xavier Legette",
+   "team": "CAR",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Knee",
+   "priority": 4
+  },
+  {
+   "name": "Andrei Iosivas",
+   "team": "CIN",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Thumb",
+   "priority": 4
+  },
+  {
+   "name": "Erick All",
+   "team": "CIN",
+   "pos": "TE",
+   "status": "Out",
+   "injury": "Knee",
+   "priority": 4
+  },
+  {
+   "name": "Zachariah Branch",
+   "team": "ATL",
+   "pos": "WR",
+   "status": "Out",
+   "injury": "Hamstring",
+   "priority": 4
+  },
+  {
+   "name": "Dyami Brown",
+   "team": "WAS",
+   "pos": "WR",
+   "status": "Doubtful",
+   "injury": "Calf",
+   "priority": 4
+  },
+  {
+   "name": "Jaylen Wright",
+   "team": "MIA",
+   "pos": "RB",
+   "status": "Questionable",
+   "injury": "Quad",
+   "priority": 4
+  }
+ ]
+}

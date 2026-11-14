@@ -1,0 +1,662 @@
+{
+  "title": "Noto's Key Personnel — Week 10 Cheatsheet",
+  "lastUpdated": "2026-11-13",
+  "picks": [
+    {
+      "name": "Tyler Shough",
+      "team": "NOS",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Core",
+      "dk": 5600,
+      "fd": 7300,
+      "note": "Healthy 24.5-pt team total; Tyson now in the fold; CAR are 23rd in dropback EPA; stack with Olave"
+    },
+    {
+      "name": "Brock Purdy",
+      "team": "SFO",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Core",
+      "dk": 7000,
+      "fd": 8700,
+      "note": "17+ pts in all but one game; DAL are 28th in dropback EPA and 30th vs. QBs (SA); stack CMC/Kittle"
+    },
+    {
+      "name": "Josh Allen",
+      "team": "BUF",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Strong",
+      "dk": 7500,
+      "fd": 9500,
+      "note": "Only QB with 40+ pt upside; NYJ are 30th in dropback EPA; needs the Jets to keep it close"
+    },
+    {
+      "name": "Bryce Young",
+      "team": "CAR",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Strong",
+      "dk": 5800,
+      "fd": 7600,
+      "note": "Contrarian pick: 22+ pts in 5 of 8; fast game vs. NOS (22nd vs. QBs, SA); stack with McMillan/Coker"
+    },
+    {
+      "name": "Geno Smith",
+      "team": "NYJ",
+      "pos": "QB",
+      "group": "QB",
+      "tier": "Sprinkle",
+      "dk": 4800,
+      "fd": 6600,
+      "note": "15 pts per game; BUF allow the 5th-most QB points; 7.5-pt home dogs, so the script is ideal"
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "SFO",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Core",
+      "dk": 8500,
+      "fd": 9000,
+      "note": "68% of snaps, 20 touches and 2 TDs last week; DAL are 31st in run EPA and 32nd vs. RBs (SA)"
+    },
+    {
+      "name": "Chuba Hubbard",
+      "team": "CAR",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Core",
+      "dk": 7200,
+      "fd": 7200,
+      "note": "81% of snaps and the high-value touches; NOS are 28th in run EPA and 31st vs. RBs (SA)"
+    },
+    {
+      "name": "Kenneth Walker III",
+      "team": "KCC",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Strong",
+      "dk": 9200,
+      "fd": 9800,
+      "note": "Late add to the injury report, so monitor him; ATL are 25th vs. RBs (SA); KC will want to run"
+    },
+    {
+      "name": "James Cook",
+      "team": "BUF",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Strong",
+      "dk": 7400,
+      "fd": 8400,
+      "note": "66% of snaps and 19 pts per game; always underowned; NYJ are 26th vs. RBs (SA)"
+    },
+    {
+      "name": "Bijan Robinson",
+      "team": "ATL",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Sprinkle",
+      "dk": 8200,
+      "fd": 8800,
+      "note": "Highest pOWN among RBs and a tough matchup vs. KC; receiving work is his best path; stay underweight"
+    },
+    {
+      "name": "Bhayshul Tuten",
+      "team": "JAC",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Sprinkle",
+      "dk": 6600,
+      "fd": 6800,
+      "note": "Off the injury report; 16-20 touch role as a 10.5-pt favorite; TEN are 30th vs. RBs (SA)"
+    },
+    {
+      "name": "Zach Charbonnet",
+      "team": "SEA",
+      "pos": "RB",
+      "group": "RB",
+      "tier": "Sprinkle",
+      "dk": 5600,
+      "fd": 6700,
+      "note": "Out-snapped Price and was more efficient; LVR are 24th in run EPA and 29th vs. RBs (SA)"
+    },
+    {
+      "name": "Justin Jefferson",
+      "team": "MIN",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Core",
+      "dk": 6800,
+      "fd": 8100,
+      "note": "Cousins is back and Hockenson is out; GB are 10th-softest vs. WRs (SA); WR1 in 2022 with Cousins"
+    },
+    {
+      "name": "Jaxon Smith-Njigba",
+      "team": "SEA",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 9300,
+      "fd": 9500,
+      "note": "Under 15% ownership is a green light; LVR are 29th in dropback EPA and 22nd vs. WRs (SA)"
+    },
+    {
+      "name": "CeeDee Lamb",
+      "team": "DAL",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 8800,
+      "fd": 9000,
+      "note": "10-195-1 without Pickens last week; lower-owned at this price; SFO tough on TEs and outside WRs"
+    },
+    {
+      "name": "Chris Olave",
+      "team": "NOS",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 7000,
+      "fd": 7900,
+      "note": "7 catches for 98 yards with Tyson active; CAR are 23rd in dropback EPA; best partner for Shough"
+    },
+    {
+      "name": "Tetairoa McMillan",
+      "team": "CAR",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 6700,
+      "fd": 7100,
+      "note": "With Coker: 39% target share and 60% air yards; NOS are 29th vs. WRs (SA); low-owned"
+    },
+    {
+      "name": "Jalen Coker",
+      "team": "CAR",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 5700,
+      "fd": 5600,
+      "note": "With McMillan: 39% target share and 60% air yards; NOS are 29th vs. WRs (SA)"
+    },
+    {
+      "name": "Wan'Dale Robinson",
+      "team": "TEN",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Strong",
+      "dk": 4500,
+      "fd": 5200,
+      "note": "Tate is out; 6-of-7 for 57 and a TD with Tate out in Week 8; large home dogs, so volume should hold"
+    },
+    {
+      "name": "Drake London",
+      "team": "ATL",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 6600,
+      "fd": 7700,
+      "note": "Clear WR1 and cheap for his usage, but KC are 2nd vs. WRs; hard to prioritize"
+    },
+    {
+      "name": "Rashee Rice",
+      "team": "KCC",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 6100,
+      "fd": 6900,
+      "note": "Low aDOT fits this offense; Downs is new; 6-8 targets in a decent matchup"
+    },
+    {
+      "name": "Matthew Golden",
+      "team": "GBP",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 7300,
+      "fd": 7300,
+      "note": "Vikings blitz the most, so 1-on-1 chances; GB can't run without Jacobs; GPP upside"
+    },
+    {
+      "name": "Christian Watson",
+      "team": "GBP",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 7700,
+      "fd": 7600,
+      "note": "Vikings blitz the most, so 1-on-1 chances; GB can't run without Jacobs; GPP upside"
+    },
+    {
+      "name": "KC Concepcion",
+      "team": "CLE",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 4800,
+      "fd": 5700,
+      "note": "Pass-heavy script; HOU allow the 2nd-most WR points (SA); stack with Watson"
+    },
+    {
+      "name": "Denzel Boston",
+      "team": "CLE",
+      "pos": "WR",
+      "group": "WR",
+      "tier": "Sprinkle",
+      "dk": 5200,
+      "fd": 5500,
+      "note": "Pass-heavy script; HOU allow the 2nd-most WR points (SA); stack with Watson"
+    },
+    {
+      "name": "Tyler Warren",
+      "team": "IND",
+      "pos": "TE",
+      "group": "TE",
+      "tier": "Core",
+      "dk": 4400,
+      "fd": 5300,
+      "note": "Top pass catcher with Downs and Allen gone; 21.5-pt team total; MIA are 29th vs. TEs"
+    },
+    {
+      "name": "George Kittle",
+      "team": "SFO",
+      "pos": "TE",
+      "group": "TE",
+      "tier": "Strong",
+      "dk": 6500,
+      "fd": 6600,
+      "note": "23% target share and 24% air yards; low ownership after last week; DAL are 28th in dropback EPA"
+    },
+    {
+      "name": "Colby Parkinson",
+      "team": "LAR",
+      "pos": "TE",
+      "group": "TE",
+      "tier": "Sprinkle",
+      "dk": 3100,
+      "fd": 0,
+      "note": "DK pick: Nacua and Adams out, so TEs lead the Rams; ARI are 32nd in dropback EPA"
+    },
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR",
+      "pos": "TE",
+      "group": "TE",
+      "tier": "Sprinkle",
+      "dk": 4200,
+      "fd": 4600,
+      "note": "FD pick: Nacua and Adams out, so TEs lead the Rams; ARI are 28th vs. TEs (SA)"
+    },
+    {
+      "name": "Rams",
+      "team": "LAR",
+      "pos": "DST",
+      "group": "DST",
+      "tier": "Core",
+      "dk": 3800,
+      "fd": 4500,
+      "note": "Cardinals start third-stringer Carson Beck; Garrett is back; 9.5-pt favorites"
+    },
+    {
+      "name": "Colts",
+      "team": "IND",
+      "pos": "DST",
+      "group": "DST",
+      "tier": "Strong",
+      "dk": 3000,
+      "fd": 4100,
+      "note": "Favored at home vs. MIA and first-time starter McCord; I'll take the Colts D over McCord"
+    }
+  ],
+  "injuries": [
+    {
+      "name": "Davante Adams",
+      "team": "LAR",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Hamstring",
+      "priority": 10
+    },
+    {
+      "name": "A.J. Brown",
+      "team": "NEP",
+      "pos": "WR",
+      "status": "Doubtful",
+      "injury": "Knee/Ankle",
+      "priority": 10
+    },
+    {
+      "name": "Jeremiyah Love",
+      "team": "ARI",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Ankle",
+      "priority": 10
+    },
+    {
+      "name": "Lamar Jackson",
+      "team": "BAL",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Thumb",
+      "priority": 10
+    },
+    {
+      "name": "Garrett Wilson",
+      "team": "NYJ",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Concussion",
+      "priority": 10
+    },
+    {
+      "name": "Sam Darnold",
+      "team": "SEA",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Quad",
+      "priority": 10
+    },
+    {
+      "name": "Mike Evans",
+      "team": "SFO",
+      "pos": "WR",
+      "status": "Doubtful",
+      "injury": "Achilles",
+      "priority": 10
+    },
+    {
+      "name": "George Pickens",
+      "team": "DAL",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Hamstring",
+      "priority": 10
+    },
+    {
+      "name": "Gardner Minshew",
+      "team": "ARI",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Elbow",
+      "priority": 10
+    },
+    {
+      "name": "Michael Wilson",
+      "team": "ARI",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Neck",
+      "priority": 10
+    },
+    {
+      "name": "Josh Jacobs",
+      "team": "GBP",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Hand",
+      "priority": 10
+    },
+    {
+      "name": "Patrick Mahomes",
+      "team": "KCC",
+      "pos": "QB",
+      "status": "Questionable",
+      "injury": "Elbow",
+      "priority": 10
+    },
+    {
+      "name": "Justin Herbert",
+      "team": "LAC",
+      "pos": "QB",
+      "status": "Questionable",
+      "injury": "Finger",
+      "priority": 10
+    },
+    {
+      "name": "Puka Nacua",
+      "team": "LAR",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Knee/Toe",
+      "priority": 10
+    },
+    {
+      "name": "Rhamondre Stevenson",
+      "team": "NEP",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 10
+    },
+    {
+      "name": "Carnell Tate",
+      "team": "TEN",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Shoulder",
+      "priority": 10
+    },
+    {
+      "name": "Malik Willis",
+      "team": "MIA",
+      "pos": "QB",
+      "status": "Out",
+      "injury": "Groin",
+      "priority": 10
+    },
+    {
+      "name": "David Montgomery",
+      "team": "HOU",
+      "pos": "RB",
+      "status": "Doubtful",
+      "injury": "Groin",
+      "priority": 9
+    },
+    {
+      "name": "Deebo Samuel",
+      "team": "SFO",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Hamstring",
+      "priority": 9
+    },
+    {
+      "name": "MarShawn Lloyd",
+      "team": "GBP",
+      "pos": "RB",
+      "status": "Questionable",
+      "injury": "Knee",
+      "priority": 9
+    },
+    {
+      "name": "Xavier Worthy",
+      "team": "KCC",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Hamstring",
+      "priority": 9
+    },
+    {
+      "name": "Ladd McConkey",
+      "team": "LAC",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Back",
+      "priority": 9
+    },
+    {
+      "name": "Romeo Doubs",
+      "team": "NEP",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Shoulder",
+      "priority": 8
+    },
+    {
+      "name": "Travis Etienne",
+      "team": "NOS",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Hamstring",
+      "priority": 8
+    },
+    {
+      "name": "Kendrick Bourne",
+      "team": "ARI",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Ankle",
+      "priority": 8
+    },
+    {
+      "name": "Zonovan Knight",
+      "team": "ARI",
+      "pos": "RB",
+      "status": "Questionable",
+      "injury": "Concussion",
+      "priority": 8
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "SFO",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 8
+    },
+    {
+      "name": "Jake Ferguson",
+      "team": "DAL",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 8
+    },
+    {
+      "name": "Michael Pittman",
+      "team": "PIT",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Foot",
+      "priority": 7
+    },
+    {
+      "name": "Jacory Croskey-Merritt",
+      "team": "WAS",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Groin",
+      "priority": 7
+    },
+    {
+      "name": "Alec Pierce",
+      "team": "IND",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Heel",
+      "priority": 7
+    },
+    {
+      "name": "TreVeyon Henderson",
+      "team": "NEP",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Illness",
+      "priority": 7
+    },
+    {
+      "name": "RJ Harvey",
+      "team": "DEN",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 7
+    },
+    {
+      "name": "Tyjae Spears",
+      "team": "TEN",
+      "pos": "RB",
+      "status": "Questionable",
+      "injury": "Knee",
+      "priority": 7
+    },
+    {
+      "name": "Brian Robinson",
+      "team": "ATL",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Hamstring",
+      "priority": 6
+    },
+    {
+      "name": "Rashid Shaheed",
+      "team": "SEA",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Knee",
+      "priority": 6
+    },
+    {
+      "name": "Roman Wilson",
+      "team": "PIT",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Finger",
+      "priority": 6
+    },
+    {
+      "name": "Tank Bigsby",
+      "team": "PHI",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Core",
+      "priority": 6
+    },
+    {
+      "name": "Will Shipley",
+      "team": "PHI",
+      "pos": "RB",
+      "status": "Out",
+      "injury": "Foot",
+      "priority": 6
+    },
+    {
+      "name": "Cole Kmet",
+      "team": "CHI",
+      "pos": "TE",
+      "status": "Out",
+      "injury": "Knee",
+      "priority": 6
+    },
+    {
+      "name": "Jauan Jennings",
+      "team": "MIN",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Calf",
+      "priority": 6
+    },
+    {
+      "name": "Luke Schoonmaker",
+      "team": "DAL",
+      "pos": "TE",
+      "status": "Questionable",
+      "injury": "Groin",
+      "priority": 6
+    },
+    {
+      "name": "Jordan Whittington",
+      "team": "LAR",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Back",
+      "priority": 6
+    }
+  ]
+}
